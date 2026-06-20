@@ -1,11 +1,11 @@
 <h1 align="center">👋 I'm Vanani</h1>
 
 <p align="center">
-  <em>Software Engineer · Laravel · Android · Web</em>
+  <em>A Software Engineer</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Backend+%26+Mobile+Dev;Laravel;Android;Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Web+Development;Mobile+Development;Systems;Personal+Development" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,6 +43,7 @@ Currently digging deeper into software architecture — because writing code is 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
