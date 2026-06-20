@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vanani Nathaniel</h1>
 
-<!--
-**VananiNathaniel/VananiNathaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineer passionate about building scalable web applications and enterprise solutions.
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I enjoy turning ideas into reliable software through clean architecture,
+modern development practices, and user-centered design.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 BSc. Computer Science Graduate
+- 💻 Software Engineer
+- 🌱 Currently building a Human Resource Management Information System (HRMIS)
+- 🔭 Interested in Full-Stack Development, System Design, APIs, and Enterprise Applications
+- ⚡ Passionate about solving real-world problems with technology
+
+## 🛠️ Tech Stack
+
+### Backend
+- PHP
+- Laravel
+- MySQL
+- Python
+- Kotlin
+- Android
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Tools & Platforms
+- Git
+- GitHub
+- XAMPP
+- Wordpress
+- Remote Desktop
+- 
+
+
+## 📌 Featured Projects
+
+### Human Resource Management Information System (HRMIS)
+
+Enterprise-grade HR management platform featuring:
+
+- Employee Management
+- Leave Management
+- Department Management
+- Reporting Dashboard
+- Role-Based Access Control
+
+### Face Mask Detector
+
+Computer Vision project developed during the COVID-19 period.
+
+Features:
+
+- Real-time Detection
+- Image Processing
+- Machine Learning Concepts
+
+## 🎯 Current Goals
+
+- Build production-ready software
+- Master Software Architecture
+- Contribute to Open Source
+- Develop scalable enterprise systems
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/VananiNathaniel
+
+
+### Philosophy
+
+> Build software that solves problems.
+>
+> Write code that lasts.
+>
+> Keep learning.
