@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Nathaniel Vanani</h1>
+<h1 align="center">Hi 👋, I'm Vanani</h1>
 
-<h3 align="center">Software Engineer | Laravel Developer | Full-Stack Web Developer</h3>
+<h3 align="center">Software Engineer | Laravel | Full-Stack Web | Android Development</h3>
 
 <p align="center">
-Building scalable web applications, enterprise systems, and digital solutions that solve real-world problems.
+Building scalable web applications, enterprise systems, and mobile solutions that solve real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Software+Engineer;Laravel+Developer;Full-Stack+Web+Developer;Building+Real-World+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Software+Engineer;Laravel+Developer;Full-Stack+Web+Developer;Android+Developer;Building+Real-World+Solutions;Personal+Development" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Sc. Computer Science Graduate
 * 💻 Software Engineer passionate about building impactful software
-* 🔭 Currently building a Human Resource Management Information System (HRMIS)
 * 🌱 Continuously improving my skills in Software Architecture and System Design
 * ⚡ Strong foundation in full-stack development through practical project-based learning
+* 📱 Building mobile solutions alongside web applications
 * 🎯 Goal: Build software that creates value and solves meaningful problems
 
 ---
@@ -37,6 +36,11 @@ Building scalable web applications, enterprise systems, and digital solutions th
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### Mobile Development
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 ### Tools
 
@@ -72,20 +76,6 @@ Human Resource Management Information System built using Laravel, PHP, MySQL, Bo
 
 Computer Vision project developed during the COVID-19 period for real-time face mask detection.
 
-### Enterprise Web Applications
-
-Building modern administrative systems, dashboards, and business applications.
-
----
-
-## 🎯 Current Focus
-
-* Software Engineering
-* Laravel Development
-* Full-Stack Web Development
-* System Design
-* Enterprise Applications
-
 ---
 
 ## 📫 Connect With Me
@@ -94,4 +84,4 @@ Building modern administrative systems, dashboards, and business applications.
 
 ---
 
-> “Build software that solves problems, not just software that works.”
+> “Hope must never die.”
