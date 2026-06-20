@@ -46,13 +46,6 @@ Currently digging deeper into software architecture — because writing code is 
 
 ---
 
-### What I've built
-
-- **HRMIS System** – Human resource management platform with Laravel, MySQL, and Bootstrap
-- **Face Mask Detector** – Real-time computer vision project built during COVID-19
-
----
-
 ### Stats
 
 <p align="center">
