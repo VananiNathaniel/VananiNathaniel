@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Vanani</h1>
+<h1 align="center">Hi,👋 I'm Vanani</h1>
 
 <p align="center">
   <em>Software Engineer · Laravel & Android · Building things that actually work</em>
@@ -20,24 +20,36 @@ Currently digging deeper into software architecture — because writing code is 
 
 ### Tech I work with
 
-**Backend**  
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
 PHP · Laravel · MySQL
 
-**Frontend**  
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
 HTML · CSS · JavaScript · Bootstrap
 
-**Mobile**  
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
 Android · Java
 
-**Tools**  
-Git · GitHub · Linux
+**Tools**
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-### Some things I've built
-
-- **HRMIS System** – A human resource management platform for organizations. Built with Laravel, MySQL, and Bootstrap.
-- **Face Mask Detector** – A computer vision project for real-time detection during the COVID-19 period.
+Git · GitHub 
 
 ---
 
@@ -59,6 +71,6 @@ Git · GitHub · Linux
 
 ### Find me
 
-- GitHub: [github.com/VananiNathaniel](https://github.com/VananiNathaniel)
+* GitHub: [github.com/VananiNathaniel](https://github.com/VananiNathaniel)
 
 ---
