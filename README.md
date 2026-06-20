@@ -1,28 +1,48 @@
 <h1 align="center">Hi 👋, I'm Vanani</h1>
 
-<h3 align="center">Software Engineer | Laravel | Full-Stack Web | Android Development</h3>
-
 <p align="center">
-Building scalable web applications, enterprise systems, and mobile solutions that solve real-world problems.
+  <i>Software Engineer who enjoys turning ideas into working systems.</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Software+Engineer;Laravel+Developer;Full-Stack+Web+Developer;Android+Developer;Building+Real-World+Solutions;Personal+Development" alt="Typing SVG" />
+  Building web applications, mobile solutions, and software systems that move ideas from imagination into reality.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Software+Engineer;Laravel+Developer;Full-Stack+Web+Developer;Android+Developer;Problem+Solver;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 My Story
 
-* 💻 Software Engineer passionate about building impactful software
-* 🌱 Continuously improving my skills in Software Architecture and System Design
-* ⚡ Strong foundation in full-stack development through practical project-based learning
-* 📱 Building mobile solutions alongside web applications
-* 🎯 Goal: Build software that creates value and solves meaningful problems
+I believe software is more than writing code — it is about understanding problems, designing solutions, and creating tools that make life easier.
+
+My journey has been shaped by curiosity, continuous learning, and the desire to build things that have real value.
+
+From web platforms to mobile applications and enterprise systems, I enjoy exploring how technology can transform ideas into practical solutions.
+
+Currently focused on building reliable, scalable, and user-centered applications while growing deeper in software engineering, architecture, and system design.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Build
+
+💻 **Web Applications**
+Creating responsive and scalable web solutions using modern development practices.
+
+🏢 **Enterprise Systems**
+Building systems that help organizations manage processes, information, and operations.
+
+📱 **Mobile Applications**
+Developing Android applications and exploring mobile experiences.
+
+🧩 **Problem-Solving Software**
+Turning challenges into simple, effective, and maintainable solutions.
+
+---
+
+## 🛠️ My Toolbox
 
 ### Backend
 
@@ -50,38 +70,52 @@ Building scalable web applications, enterprise systems, and mobile solutions tha
 
 ---
 
-## 📊 GitHub Statistics
+## 🌟 Projects That Represent My Journey
+
+### 🏢 Human Resource Management Information System (HRMIS)
+
+A full-stack enterprise system focused on improving HR processes through digital solutions.
+
+Built with:
+
+Laravel • PHP • MySQL • Bootstrap • JavaScript
+
+---
+
+### 🤖 Face Mask Detector
+
+A computer vision project developed during the COVID-19 period, exploring the application of machine learning and image processing.
+
+---
+
+## 📊 GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VananiNathaniel&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=VananiNathaniel&show_icons=true&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VananiNathaniel&theme=github-dark-blue" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VananiNathaniel&layout=compact&theme=github_dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VananiNathaniel&theme=github-dark-blue"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🌱 Currently Growing In
 
-### HRMIS System
-
-Human Resource Management Information System built using Laravel, PHP, MySQL, Bootstrap, and JavaScript.
-
-### Face Mask Detector
-
-Computer Vision project developed during the COVID-19 period for real-time face mask detection.
+* Software Architecture
+* Clean Code Practices
+* System Design
+* Building Better User Experiences
+* Creating Software That Scales
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-* GitHub: github.com/VananiNathaniel
+GitHub: github.com/VananiNathaniel
 
 ---
 
-> “Hope must never die.”
+> "Hope must never die."
+>
+> Keep learning. Keep building. Keep improving.
